@@ -1,4 +1,5 @@
 div p {
     background-color: yellow;
-    color: red
+    color: red;
+    text-align: center;
 }
