@@ -51,6 +51,7 @@ html {
 
 .article p {
   font-size: 18px;
+  padding-bottom: 15px;
   font-family: sans-serif;
   color: white;
   text-align: left;
